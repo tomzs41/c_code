@@ -1,9 +1,9 @@
 ﻿  heap.cpp
-D:\vs\heap.h\heap.h\heap.cpp(7,13): error C2371: “size_t”: 重定义；不同的基类型
-D:\vs\heap.h\heap.h\predefined C++ types (compiler internal)(16): message : 参见“size_t”的声明
-D:\vs\heap.h\heap.h\heap.cpp(27,23): error C2440: “初始化”: 无法从“HPDataType”转换为“HPDataType *”
-D:\vs\heap.h\heap.h\heap.cpp(27,18): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
-D:\vs\heap.h\heap.h\heap.cpp(53,70): error C2440: “初始化”: 无法从“void *”转换为“HPDataType *”
-D:\vs\heap.h\heap.h\heap.cpp(53,19): message : 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
-D:\vs\heap.h\heap.h\heap.cpp(86,4): error C3861: “Swap”: 找不到标识符
-D:\vs\heap.h\heap.h\heap.cpp(103,2): error C3861: “Swap”: 找不到标识符
+D:\code\c_code\heap.h\heap.h\heap.cpp(7,13): error C2371: “size_t”: 重定义；不同的基类型
+D:\code\c_code\heap.h\heap.h\predefined C++ types (compiler internal)(16): message : 参见“size_t”的声明
+D:\code\c_code\heap.h\heap.h\heap.cpp(27,23): error C2440: “初始化”: 无法从“HPDataType”转换为“HPDataType *”
+D:\code\c_code\heap.h\heap.h\heap.cpp(27,18): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\code\c_code\heap.h\heap.h\heap.cpp(53,70): error C2440: “初始化”: 无法从“void *”转换为“HPDataType *”
+D:\code\c_code\heap.h\heap.h\heap.cpp(53,19): message : 从“void*”到指向非“void”的指针的强制转换要求显式类型强制转换
+D:\code\c_code\heap.h\heap.h\heap.cpp(86,4): error C3861: “Swap”: 找不到标识符
+D:\code\c_code\heap.h\heap.h\heap.cpp(103,2): error C3861: “Swap”: 找不到标识符
